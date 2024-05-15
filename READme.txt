@@ -1,7 +1,7 @@
 Please remember that while testing or using any app online use meaningfull data and dont be a fool like..ahem..certain people we know.
 ____________________________________________________________________________________________________________________________
 QR Code Generator
---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
 Overview
 This is a simple QR code generator application built using Python and the Tkinter library. It allows users to generate QR codes by entering data and saves them as images on their local system.
 --------------------------------------------------------------------------------------------------------------------------
