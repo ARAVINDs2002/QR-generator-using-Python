@@ -1,3 +1,5 @@
+Please remember that while testing or using any app use meaningfull data and dont be a fool like..ahem..certain someone we know.Thankyou :) 
+__________________________________________________________________________________________________________________________
 QR Code Generator
 --------------------------------------------------------------------------------------------------------------------------
 Overview
