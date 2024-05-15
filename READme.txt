@@ -1,4 +1,4 @@
-Please remember that while testing or using any app use meaningfull data and dont be a fool like..ahem..certain someone we know.Thankyou :) 
+Please remember that while testing or using any app online use meaningfull data and dont be a fool like..ahem..certain people we know.
 __________________________________________________________________________________________________________________________
 QR Code Generator
 --------------------------------------------------------------------------------------------------------------------------
